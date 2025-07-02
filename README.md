@@ -1,6 +1,6 @@
 # Detectium
 
-Developed by **Raiyan Aaijaz**, **Ayaan Iqbal**, **Mekhael Thaha**, **Mevan Solanga**, **Arine Peltekian**
+Developed by **Raiyan Aaijaz**, **Ayaan Iqbal**, **Mekhael Thaha**, **Mevan Solanga**, **Arine Peltekian**.
 
 Detecium is a real-time patient monitoring system designed for individuals at risk of delirium episodes. It integrates **facial expression analysis**, **speech pattern tracking**, and **heartbeat monitoring** to assist clinical staff in early detection and intervention.
 
